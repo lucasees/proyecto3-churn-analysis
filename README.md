@@ -33,8 +33,9 @@ Telco Customer Churn — IBM/Kaggle
 6. Churn por tipo de servicio de internet
 
 ## Estructura del proyecto
-- `notebooks/` — Notebook principal del análisis
-- `imagenes/` — Visualizaciones generadas
+## Estructura del proyecto
+- `cuadernos/` — Notebook principal del análisis
+- `imágenes/` — Visualizaciones generadas
 
 ## Contacto
 **Lucas Espinosa** - Data Analyst  
